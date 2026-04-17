@@ -11,6 +11,11 @@
 
 🌐 **[Website](https://4gray.github.io/iptvnator/)** | <a href="https://t.me/iptvnator">Telegram channel for discussions</a> | <a href="https://ko-fi.com/4gray" target="_blank">Buy me a coffee</a> | <a href="https://github.com/sponsors/4gray">GitHub Sponsors</a>
 
+PLEASE NOTE: This build is a wider sidebar release for Events playlists. It is not published to Snap Store.
+
+![IPTVnator: Wider sidebar channels events list](./wider-sidebar.png)
+
+
 **IPTVnator** is a video player application that provides support for IPTV playlist playback (m3u, m3u8). The application allows users to import playlists using remote URLs or by uploading files from the local file system. Additionally, it supports EPG information in XMLTV format which can be provided via URL.
 
 The application is a cross-platform, open-source project built with Electron and Angular.
